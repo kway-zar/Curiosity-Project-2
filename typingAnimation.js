@@ -1,7 +1,7 @@
 export function animateText() {
   const MESSAGES = [
-    { delay: 0, text: "I've developed feelings for you...😳" },
-    { delay: 1200, text: "Can I be your Lover?" },
+    { delay: 0, text: "I've missed you.😳" },
+    { delay: 1200, text: "Can we go back to the way things were?" },
     
   ];
 
